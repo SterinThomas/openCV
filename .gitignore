@@ -1,0 +1,8 @@
+*.pyc
+*.zip
+*.swp
+*.txt
+Pokedex/pokedex-find-screen-part-1/*
+Pokedex/comparing-shape-features/*
+*.caffemodel
+*.prototxt
